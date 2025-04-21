@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me
 
-- 🚀 **Builder at heart** – I craft cross‑platform products with **Flutter**, **Laravel/PHP**, and **React/JS**, then super‑charge them with **GPT / Gemini automations via n8n**.  
+- 🚀 **Builder at heart** – I craft cross‑platform products with **Flutter**, **Laravel/PHP**, and **React/JS**.  
 - 🔄 **Workflow Architect** – I design end‑to‑end business automations and AI‑powered workflows (n8n, Zapier, serverless functions) that save teams hours every day.  
 - 📱 **fixit.ps** – full‑stack phones e‑commerce platform (Flutter + PHP) built from the ground up.  
 - 🤖 **AI Inbox & Social Assistant** – RAG‑powered tool that drafts, schedules, and auto‑replies to customer messages.  
