@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I’m Mohammad Fahil</h1>
-<h3 align="center"> AI Engineer | Full‑Stack Developer | Automation Architect | 🇵🇸 Palestine</h3>
+<h3 align="center">
+  <b>AI Engineer | Full-Stack Developer | Automation Architect</b><br>
+  <i>Solving real-world problems with code, content, and a growth-first mindset.</i>
+</h3>
 
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=YourGitHubUsername&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
@@ -8,59 +11,36 @@
 
 ---
 
-### 👨‍💻 About Me
+### 🧠 Mentality & Philosophy
 
-- 🤖 **AI Engineer & SaaS Founder** – Currently building **PlotLead AI**, a specialized real estate SaaS, and **AetherTrace**, an open-source AI agent observability tool.
-- 🚀 **Full-Stack Expert** – Years of experience scaling products with **Flutter**, **React (Next.js)**, and **Node.js/Laravel**.
-- 🔄 **Workflow Architect** – I bridge the gap between AI and production, designing complex RAG pipelines and n8n/Zapier automations that replace manual labor.
-- 🎓 **CS Graduate** – Birzeit University alumnus with a deep focus on algorithms, cryptography, and scalable architectures.
-
----
-
-### 🛠 My Core Projects
-
-* **[AetherTrace](https://github.com/YourUsername/AetherTrace)** – *In Development:* An observability and tracing tool for AI agents to monitor decision-making in real-time.
-* **[fixit.ps](https://fixit.ps)** – A complete E-commerce ecosystem for mobile parts in Palestine (Web + Mobile), built from scratch.
-* **AI Social Assistant** – A RAG-powered engine that handles lead generation and automated social media interactions for agencies.
+- **Relentless Learner:** I thrive in the "uncomfortable zone" where technology moves faster than the documentation. I don't just use tools; I seek to understand their limits.
+- **Efficiency Obsessed:** If a task can be automated, it should be. I build workflows that allow humans to focus on creativity while machines handle the repetition.
+- **Logic + Ethics:** My work is driven by a balance of scientific rigor and ethical responsibility. I believe technology should serve people, not just metrics.
+- **Resilience:** Born and based in Palestine, I’ve learned to build robust systems under pressure. I value results over ego and feedback over perfection.
 
 ---
 
-### 🔬 Technical Arsenal
+### 🛠 Technical Competencies
 
-| Category | Tools & Technologies |
+| Domain | Expert Knowledge |
 | :--- | :--- |
-| **AI / ML** | RAG Pipelines, LLMs (Gemini, GPT-4), AI Agents, Vector DBs (Qdrant, Pinecone), LangChain |
-| **Full-Stack** | Flutter, React.js, Next.js, Node.js, Java (Spring Boot), PHP (Laravel) |
-| **Backend / DB** | Supabase, Firebase, MySQL, MongoDB, PostgreSQL |
-| **Automation** | n8n, Zapier, Python Scripting, Serverless Functions |
-| **Creative** | After Effects (Motion Graphics), Premiere Pro, Illustrator |
+| **Artificial Intelligence** | RAG Architectures, Agentic Workflows, LLM Orchestration, Vector Databases |
+| **Full-Stack Dev** | Flutter, React/Next.js, Node.js, PHP/Laravel, Java/Spring Boot |
+| **Automation** | n8n, Zapier, Custom Python Bots, Serverless Architectures |
+| **Creative Engineering** | High-end Motion Graphics (After Effects), Story-driven Video Editing |
 
 ---
 
-### 📊 GitHub Stats & Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=dracula&no-frame=true&margin-w=10" alt="trophies" />
-</p>
+### 📈 Beyond the Code
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight" alt="languages" />
-</p>
+When I'm not in an IDE, I'm analyzing market liquidity in **Forex (XAU/USD)** or exploring the intersection of **Technology, Science, and Ethics**. I believe a well-rounded perspective makes for a better engineer.
 
 ---
 
-### 📈 Beyond The IDE
-* **Content Creator:** Merging Science, Ethics, and AI to build tech awareness.
-* **Forex Enthusiast:** Disciplined trader focusing on **XAU/USD** and **EUR/USD** market dynamics.
-* **Founder:** Co-founder at **Goforcen**, driving ROI through AI-powered marketing.
+### 🤝 Let's Collaborate
 
----
+- 📧 **Email:** fadelmohammad22@gmail.com
+- 🌐 **Agency:** [Goforcen](https://goforcen.com)
+- 💼 **LinkedIn:** [Inquire for Profile](https://linkedin.com/in/mohammad-fahil)
 
-### 🤝 Connect With Me
-<p align="left">
-  <a href="mailto:fadelmohammad22@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://goforcen.com" target="blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/mohammad-fahil" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
-
-> "Turning complex real-world pain points into elegant, automated solutions."
+> "Turning complex friction into seamless, automated reality."
