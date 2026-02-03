@@ -40,7 +40,5 @@ When I'm not in an IDE, I'm analyzing market liquidity in **Forex (XAU/USD)** or
 ### 🤝 Let's Collaborate
 
 - 📧 **Email:** fadelmohammad22@gmail.com
-- 🌐 **Agency:** [Goforcen](https://goforcen.com)
-- 💼 **LinkedIn:** [Inquire for Profile](https://linkedin.com/in/mohammad-fahil)
 
 > "Turning complex friction into seamless, automated reality."
