@@ -1,72 +1,66 @@
-<h1 align="center">Hi 👋, I’m Mohammad Fahil </h1>
-<h3 align="center">Cross‑Platform Full‑Stack Dev | AI & Automation Specialist | Pro Video Editor | 🇵🇸 Palestine</h3>
+<h1 align="center">Hi 👋, I’m Mohammad Fahil</h1>
+<h3 align="center">Senior AI Engineer | Full‑Stack Developer | Automation Architect | 🇵🇸 Palestine</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YourGitHubUsername&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=mfahil&label=Profile%20views&color=0e75b6&style=flat-square" alt="profile views"/>
+  <img src="https://img.shields.io/badge/Focus-AI%20Agents%20%26%20RAG-blue?style=flat-square" alt="Focus"/>
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 About Me
 
-- 🚀 **Builder at heart** – I craft cross‑platform products with **Flutter**, **Laravel/PHP**, and **React/JS**.  
-- 🔄 **Workflow Architect** – I design end‑to‑end business automations and AI‑powered workflows (n8n, Zapier, serverless functions) that save teams hours every day.  
-- 📱 **fixit.ps** – full‑stack phones e‑commerce platform (Flutter + PHP) built from the ground up.  
-- 🤖 **AI Inbox & Social Assistant** – RAG‑powered tool that drafts, schedules, and auto‑replies to customer messages.  
-- 🗓 **Smart Booking Bot** – WhatsApp‑ready chatbot that handles appointments & confirmations for clinics and cafés.
-
----
-
-### 🔬 Currently Exploring
-- Retrieval‑Augmented Generation (advanced pipelines)  
-- TensorFlow for production‑grade ML  
-- Multi‑tenant, serverless SaaS architectures
+- 🤖 **AI Engineer & SaaS Founder** – Currently building **PlotLead AI**, a specialized real estate SaaS, and **AetherTrace**, an open-source AI agent observability tool.
+- 🚀 **Full-Stack Expert** – Years of experience scaling products with **Flutter**, **React (Next.js)**, and **Node.js/Laravel**.
+- 🔄 **Workflow Architect** – I bridge the gap between AI and production, designing complex RAG pipelines and n8n/Zapier automations that replace manual labor.
+- 🎓 **CS Graduate** – Birzeit University alumnus with a deep focus on algorithms, cryptography, and scalable architectures.
 
 ---
 
-### 🎥 Beyond Code
--🎬 Video‑editing specialist for ads, reels & story‑driven content (After Effects, Premiere)
+### 🛠 My Core Projects
 
--📈 Disciplined Forex enthusiast trading XAU/USD & EUR/USD.
-
-
----
-
-### 🛠 Tech & Creative Stack
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
-
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="40" alt="After Effects"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" height="40" alt="Premiere Pro"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="Illustrator"/>
-</p>
+* **[AetherTrace](https://github.com/YourUsername/AetherTrace)** – *In Development:* An observability and tracing tool for AI agents to monitor decision-making in real-time.
+* **[fixit.ps](https://fixit.ps)** – A complete E-commerce ecosystem for mobile parts in Palestine (Web + Mobile), built from scratch.
+* **AI Social Assistant** – A RAG-powered engine that handles lead generation and automated social media interactions for agencies.
 
 ---
 
-### 🏆 GitHub Trophies
+### 🔬 Technical Arsenal
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **AI / ML** | RAG Pipelines, LLMs (Gemini, GPT-4), AI Agents, Vector DBs (Qdrant, Pinecone), LangChain |
+| **Full-Stack** | Flutter, React.js, Next.js, Node.js, Java (Spring Boot), PHP (Laravel) |
+| **Backend / DB** | Supabase, Firebase, MySQL, MongoDB, PostgreSQL |
+| **Automation** | n8n, Zapier, Python Scripting, Serverless Functions |
+| **Creative** | After Effects (Motion Graphics), Premiere Pro, Illustrator |
+
+---
+
+### 📊 GitHub Stats & Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=gruvbox&no-frame=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=dracula&no-frame=true&margin-w=10" alt="trophies" />
 </p>
 
-
-### 🤝 Connect With Me
-<p>
-  <a href="fadelmohammad22@gmail.com" target="blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" height="30" width="40" /></a>
-<!--   <a href="" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="40" /></a> -->
-<!--   <a href="" target="blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" height="30" width="40" /></a> -->
-<!--   <a href="" target="blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/discord.svg" height="30" width="40" /></a> -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight" alt="languages" />
 </p>
 
 ---
 
-> “Turning real‑world pain points into delightful code & content.”
+### 📈 Beyond The IDE
+* **Content Creator:** Merging Science, Ethics, and AI to build tech awareness.
+* **Forex Enthusiast:** Disciplined trader focusing on **XAU/USD** and **EUR/USD** market dynamics.
+* **Founder:** Co-founder at **Goforcen**, driving ROI through AI-powered marketing.
+
+---
+
+### 🤝 Connect With Me
+<p align="left">
+  <a href="mailto:fadelmohammad22@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://goforcen.com" target="blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/mohammad-fahil" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+> "Turning complex real-world pain points into elegant, automated solutions."
