@@ -1,4 +1,4 @@
-# Mohammad Fahil
+# Mohammad Fadel (Fahil)
 
 **Full-Stack AI Engineer.** I build LLM agents and RAG systems and ship them inside complete web and mobile products.
 
