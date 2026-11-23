@@ -1,44 +1,27 @@
-<h1 align="center">Hi 👋, I’m Mohammad Fahil</h1>
-<h3 align="center">
-  <b>AI Engineer | Full-Stack Developer | Automation Architect</b><br>
-  <i>Solving real-world problems with code, content, and a growth-first mindset.</i>
-</h3>
+# Mohammad Fahil
 
-<p align="center">
- <img src="https://komarev.com/ghpvc/?username=YourGitHubUsername&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
- <img src="https://img.shields.io/badge/Focus-AI%20Agents%20%26%20RAG-blue?style=flat-square" alt="Focus"/>
-</p>
+**Full-Stack AI Engineer.** I build LLM agents and RAG systems and ship them inside complete web and mobile products.
 
 ---
 
-### 🧠 Mentality & Philosophy
+### Live work
 
-- **Relentless Learner:** I thrive in the "uncomfortable zone" where technology moves faster than the documentation. I don't just use tools; I seek to understand their limits.
-- **Efficiency Obsessed:** If a task can be automated, it should be. I build workflows that allow humans to focus on creativity while machines handle the repetition.
-- **Logic + Ethics:** My work is driven by a balance of scientific rigor and ethical responsibility. I believe technology should serve people, not just metrics.
-- **Resilience:** Born and based in Palestine, I’ve learned to build robust systems under pressure. I value results over ego and feedback over perfection.
+| Product | What it is | Links |
+| --- | --- | --- |
+| **Offline-first ERP / POS** | Flutter, Windows and Android. Encrypted local database with two-way Supabase sync. In daily use at a retail store since August 2026. | [Case study](https://goforcen.com/work/offline-business-system) |
+| **PlotLead AI** | Real-estate CRM with a tool-calling AI sales agent, Arabic and English. Hybrid retrieval on pgvector + PostgreSQL full-text. | [plotleadai.com](https://plotleadai.com) · [Case study](https://goforcen.com/work/plotlead-ai) |
+| **CarsHub** | Multi-role car-parts marketplace with server-side pricing, stock locking and atomic checkout. | [App Store](https://apps.apple.com/us/app/carshub-market/id6808079653) · [Web](https://carshubps.store) |
+| **Fixit.ps** | E-commerce platform: Flutter app and web. | [App Store](https://apps.apple.com/us/app/fixit-ps/id6756405290) · [Google Play](https://play.google.com/store/apps/details?id=com.fixitps.app) · [fixit.ps](https://fixit.ps/) |
+| **[MindTrace](https://github.com/Fahil22/mindtrace)** | Open-source observability for AI agents (OpenTelemetry GenAI traces). | Python SDK, server, Next.js UI · MIT |
 
----
+Product code is private. I can walk through any of it on a call.
 
-### 🛠 Technical Competencies
+### Stack
 
-| Domain | Expert Knowledge |
-| :--- | :--- |
-| **Artificial Intelligence** | RAG Architectures, Agentic Workflows, LLM Orchestration, Vector Databases |
-| **Full-Stack Dev** | Flutter, React/Next.js, Node.js, PHP/Laravel, Java/Spring Boot |
-| **Automation** | n8n, Zapier, Custom Python Bots, Serverless Architectures |
-| **Creative Engineering** | High-end Motion Graphics (After Effects), Story-driven Video Editing |
+LLM agents with tool calling · RAG and hybrid retrieval · Flutter · React / Next.js · TypeScript · Node.js · Supabase / PostgreSQL (RLS, pgvector) · Python
 
----
+### Contact
 
-### 📈 Beyond the Code
+[LinkedIn](https://www.linkedin.com/in/mohammad-fadel-2002m/) · [Portfolio](https://goforcen.com/work) · mohammadfahil366@gmail.com
 
-When I'm not in an IDE, I'm analyzing market liquidity in **Forex (XAU/USD)** or exploring the intersection of **Technology, Science, and Ethics**. I believe a well-rounded perspective makes for a better engineer.
-
----
-
-### 🤝 Let's Collaborate
-
-- 📧 **Email:** fadelmohammad22@gmail.com
-
-> "Turning complex friction into seamless, automated reality."
+Based in Palestine (GMT+2). Open to remote roles, contracts and technical partnerships.
